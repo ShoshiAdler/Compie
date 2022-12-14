@@ -1,0 +1,3 @@
+com\example\player\ServletInitializer.class
+com\example\player\PlayerApplication.class
+com\example\player\controller\PlayerController.class
