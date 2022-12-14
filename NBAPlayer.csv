@@ -1,0 +1,9 @@
+id,first_name,last_name,position,height_feet,height_inches,weight_pounds,team.id,team.abbreviation,team.city,team.conference,team.division,team.full_name,team.name
+14,Ike,Anigbogu,C,0,0,0,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+25,Ron,Baker,G,0,0,0,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+47,Jabari,Bird,G,0,0,0,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+67,MarShon,Brooks,G,0,0,0,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+71,Lorenzo,Brown,G,0,0,0,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+90,Omri,Casspi,F,0,0,0,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+1,Alex,Abrines,G,6,6,200,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+119,Tyler,Davis,C,0,0,0,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder

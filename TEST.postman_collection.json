@@ -1,0 +1,49 @@
+{
+	"info": {
+		"_postman_id": "20a9f6fd-d77b-4a5d-94cd-048918044d4c",
+		"name": "TEST",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "24877438"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8080/player",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {}
+			},
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "",
+						"value": "multipart/form-data",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/USER/Desktop/player.csv"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:8080/player",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"player"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
